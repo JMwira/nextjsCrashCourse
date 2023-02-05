@@ -1,0 +1,2 @@
+# nextjsCrashCourse
+exploring next js
